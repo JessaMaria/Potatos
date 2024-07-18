@@ -2,6 +2,4 @@
 
 # Juncture Repository Template
 
-To create a new repository using this template go to [https://github.com/juncture-digital/template/generate](https://github.com/juncture-digital/template/generate)
-
-Example essays can be found at [https://github.com/juncture-digital/examples](https://github.com/juncture-digital/examples)
+<param ve-image url="https://commons.wikimedia.org/wiki/File:%D0%90%D1%80%D0%B5%D0%B0%D0%BB_Solanum_tuberosum_GBIF.jpg"
