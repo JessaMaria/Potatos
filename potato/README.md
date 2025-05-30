@@ -8,7 +8,7 @@
        author="Nola, Alex, and Jess"
        layout="vertical">
 
-### **A Plant Archive of Survival**
+### A Plant Archive of Survival
 
 We often ask plants questions such as: Where are you native? How many variants exist? What environment do you strive in? What are you most vulnerable to? Humans ask—at times demand—these questions of plants, and the answers are held not only in science, but also by existing communities fighting to preserve their native plants. Each answer is a story, and more and more stories continue to be collected, creating a plant archive of survival. What does the plant archive of the potato tell us? In the public imagination, the potato exists within two dominant narratives. 
 
@@ -22,8 +22,8 @@ The second story centers on famine and the risk of monoculture, both to biodiver
 
 <param ve-image
 	   src="wc:Cip_Handquarters_%3D_CIP本部の玄関.jpg"
-	   caption="El Centro Internacional de la Papa.">
+	   caption="*El Centro Internacional de la Papa*.">
 
 
 [^1]: Särkinen, Tiina., et al. "Out of the wild: the wild (and often weedy) roots of our crops." New Phytologist, vol. 234 no. 4, 2022, pp. 1107-1108.
-[^2]: Reader, John. 2009. Potato: a history of the propitious esculent. Yale University Press. 
+[^2]: Crop Trust. 2013. "Potatoes, the Underground Heroes." Retrieved from: https://www.croptrust.org/news-events/news/potatoes-the-underground-heroes/ 
