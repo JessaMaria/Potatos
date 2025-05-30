@@ -18,9 +18,7 @@ The first narrative lies in the potato’s monoculture and consumption value as 
 	   src="wc:Mercado_Modelo_de_Huancayo_Peru-_Solanum_tuberosum_varieties_VI.jpg"
 	   caption="Mercado Modelo de Huancayo Peru- Solanum tuberosum variedades."> 
 
-
-The second story centers on famine and the risk of monoculture, both to biodiversity and to communities who have become dependent on the monocrop. A punctuated moment in the story of potatoes is the Irish famine of 1845-1852. There are other, lesser known moments when famine was caused by spread of disease that decimated potatoes: in 1843 Pennsylvania, 1921 Soviet Union, and 2003 Papua New Guinea. Given the potato’s vulnerability to disease and climate change, "community conservationists of the Potato Park [in Peru] decided in 2011 to send more than 1,500 seed samples of their own varieties to be stored in the *Svalbard Global Seed Vault*."[^2] has to be fixed 
-
+The second story centers on famine and the risk of monoculture, both to biodiversity and to communities who have become dependent on the monocrop. A punctuated moment in the story of potatoes is the Irish famine of 1845-1852. There are other, lesser known moments when famine was caused by spread of disease that decimated potatoes: in 1843 Pennsylvania, 1921 Soviet Union, and 2003 Papua New Guinea. Given the potato’s vulnerability to disease and climate change, "community conservationists of the Potato Park [in Peru] decided in 2011 to send more than 1,500 seed samples of their own varieties to be stored in the *Svalbard Global Seed Vault*."[^2] has to be fixed Communities and countries within Latin America have aimed to protect its many variants. The International Potato Center, CIP, with its main headquarters in Peru, works with more than 20 countries across Africa, Asia, and Latin America to enhance food security. 
 
 
 [^1]: Särkinen, Tiina., et al. "Out of the wild: the wild (and often weedy) roots of our crops." New Phytologist, vol. 234 no. 4, 2022, pp. 1107-1108.
