@@ -28,12 +28,14 @@ The second story centers on famine and the risk of monoculture, both to biodiver
 Paragraph
 <param ve-image
        src="wc:Ареал_Solanum_tuberosum_GBIF.jpg"
-       caption="Distribution of the Solanum Tuberosum."> 
+       caption="Distribution of the *Solanum Tuberosum*."> 
 
 second paragraph
 <param ve-image
        src="wc:Mexico_topographic_map-blank.svg"
        caption="Map of Mexico.">
+
+Another image to go with the conclusion
 
 
 [^1]: Särkinen, Tiina., et al. "Out of the wild: the wild (and often weedy) roots of our crops." New Phytologist, vol. 234 no. 4, 2022, pp. 1107-1108.
