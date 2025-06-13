@@ -24,6 +24,17 @@ The second story centers on famine and the risk of monoculture, both to biodiver
 	   src="wc:Cip_Handquarters_%3D_CIP本部の玄関.jpg"
 	   caption="*El Centro Internacional de la Papa*.">
 
+### A Plant Archive of Resistance: the Edinburgh Potato 
+Paragraph
+<param ve-image
+       src="wc:Ареал_Solanum_tuberosum_GBIF.jpg"
+       caption="Distribution of the Solanum Tuberosum."> 
+
+second paragraph
+<param ve-image
+       src="wc:Mexico_topographic_map-blank.svg"
+       caption="Map of Mexico.">
+
 
 [^1]: Särkinen, Tiina., et al. "Out of the wild: the wild (and often weedy) roots of our crops." New Phytologist, vol. 234 no. 4, 2022, pp. 1107-1108.
 [^2]: Crop Trust. 2013. "Potatoes, the Underground Heroes." Retrieved from: https://www.croptrust.org/news-events/news/potatoes-the-underground-heroes/ 
