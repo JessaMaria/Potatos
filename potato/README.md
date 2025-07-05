@@ -29,6 +29,7 @@ The second narrative centers on famine and the risk of monoculture, both to biod
 	   caption="*El Centro Internacional de la Papa* (The International Potato Center), Peru. Source: JIRCAS Photo Archive.">
 
 ### A Plant Archive of Resistance: the Edinburgh Potato 
+
 the current struggle Paragraph
 
 <param ve-image
