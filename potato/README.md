@@ -12,6 +12,10 @@
 
 We often ask plants questions such as: Where are you native? How many variants exist? What environment do you strive in? What are you most vulnerable to? Humans ask—at times demand—these questions of plants, and the answers are held not only in science, but also by communities fighting to preserve their native plants. Each answer is a story, and more stories continue to be collected, creating a plant archive of survival. What does the plant archive of the potato tell us? In the public imagination, the potato exists within two dominant narratives.
 
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/newspaper.png"
+	   caption="Newspaper Clipping."> 
+
 The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^1] 
 
 <param ve-image
@@ -38,6 +42,12 @@ Such crossings can be applied to what Carmen Lamas has called the "Latinx return
        caption="Map of Mexico.">
 
 Potatoes and the fight to find a genetically resistant variant begs whether the "Latino continuum" can be more-than-human—one found within the texts of plants that are neither entirely Latin American nor European. Gardens, deserts, and the environment are storied archives. When we read each plant and ecosystem as a text, their narratives reflect a historical coming and going. The wild species being brought from Mexico and cultivated to recreate a resistant Edinburgh potato not only offers the chance to read a different "Latin American return" outside of the geographical area of the Americas. But also one that extends beyond published texts and people who return to their country of origin, to include plants. The duration for which the Edinburgh potato will remain resistant is unknown, and scientific research conducted in Edinburgh is ongoing. Research to cultivate a resistant potato will hopefully also benefit not only Latin American countries but also other countries in need, and be conducted collaboratively within their communities.  
+
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/second.png"
+	   caption="Continued excerpt.">
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/excerpt.png"> 
 
 
 [^1]: Tiina Särkinen et al. "Out of the Wild: The Wild (and Often Weedy) Roots of Our Crops." New Phytologist, vol. 234 no. 4, 2022, pp. 1107-1108.
