@@ -38,13 +38,13 @@ We often ask plants questions such as: Where are you native? How many variants e
 	   src="gh:JessaMaria/Potatos/main/potato/newspaper.png"
 	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History."> 
 
-The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^1] 
+The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^57] 
 
 <param ve-image
 	   src="wc:Mercado_Modelo_de_Huancayo_Peru-_Solanum_tuberosum_varieties_VI.jpg"
-	   caption="Mercado Modelo de Huancayo Peru- Solanum tuberosum variedades."> 
+	   caption="Mercado Modelo de Huancayo Peru- Solanum tuberosum variedades. Source: Thayne Tuason."> 
 
-The second narrative centers on famine and the risk of monoculture, both to biodiversity and to communities that have become dependent on the monocrop. Beyond the Irish famine, there are other lesser-known moments when the infection of potato crops caused famine, otherwise known as late blight, that decimated potatoes: in 1843 Pennsylvania, 1921 Soviet Union, and 2003 Papua New Guinea. Given the potato’s vulnerability to disease and climate change, "community conservationists of the Potato Park [in Peru] decided in 2011 to send more than 1,500 seed samples of their own varieties to be stored in the *Svalbard Global Seed Vault*."[^2] Communities and countries within Latin America are taking steps to protect the potato’s many variants. The International Potato Center (CIP), whose main headquarters is in Peru, works with more than twenty countries across Africa, Asia, and Latin America to enhance food security. 
+The second narrative centers on famine and the risk of monoculture, both to biodiversity and to communities that have become dependent on the monocrop. Beyond the Irish famine, there are other lesser-known moments when the infection of potato crops caused famine, otherwise known as late blight, that decimated potatoes: in 1843 Pennsylvania, 1921 Soviet Union, and 2003 Papua New Guinea. Given the potato’s vulnerability to disease and climate change, "community conservationists of the Potato Park [in Peru] decided in 2011 to send more than 1,500 seed samples of their own varieties to be stored in the *Svalbard Global Seed Vault*."[^58] Communities and countries within Latin America are taking steps to protect the potato’s many variants. The International Potato Center (CIP), whose main headquarters is in Peru, works with more than twenty countries across Africa, Asia, and Latin America to enhance food security. 
 
 <param ve-image
 	   src="wc:Cip_Handquarters_%3D_CIP本部の玄関.jpg"
@@ -52,13 +52,13 @@ The second narrative centers on famine and the risk of monoculture, both to biod
 
 ### A Plant Archive of Resistance: the Edinburgh Potato 
 
-the current struggle Paragraph
+Along with the collection of seed samples, research across the globe to find a blight-resistant gene through networks similar to the IPC has been ongoing in Peru, Chile, Mexico, the Philippines, Lithuania, and sub-Saharan Africa.[^59] And another research effort in the fight against the potato’s late blight is being conducted in Edinburgh, Scotland. Due to the "understandable interest in the Edinburgh potato given its proven resistance to late blight over many years," a collaboration between the James Hutton Institute, the Royal Botanic Garden Edinburgh and SASA, have "recreated the Edinburgh potato (Solanum × edinense) by controlled crossing of the cultivated potato with the wild species Solanum demissum found naturally in Mexico.[^60]
 
 <param ve-image
        src="wc:Ареал_Solanum_tuberosum_GBIF.jpg"
-       caption="Distribution of the *Solanum Tuberosum*."> 
+       caption="Distribution of the *Solanum Tuberosum.* Source: Global Biodiversity Information Facility."> 
 
-Such crossings can be applied to what Carmen Lamas has called the "Latinx return" or "Latin American return," which charts "an endless circuit of arrivals and departures" across existing divides. In her book, The Latino Continuum and the Nineteenth-Century Americas, Lamas explains how, when studying or recovering the lives and experiences of Latinx people, "we find markers—geographic, political, affective, aesthetic, and imaginative—that speak to the comings and goings of Latin Americans to the U.S. and back again to their home countries… They all speak of what I call the Latinx return, an endless circuit of arrivals and departures."[^3] Lamas reminds us that the crossing of the divide does not only have to involve an actual person returning, but also in the circulation of the translated works Latin American authors have published within the United States and Latin America, and more. 
+Such "controlled crossings" can be applied to what Carmen Lamas has called the "Latinx return" or "Latin American return," which charts "an endless circuit of arrivals and departures" across existing divides. In her book, The Latino Continuum and the Nineteenth-Century Americas, Lamas explains how, when studying or recovering the lives and experiences of Latinx people, "we find markers—geographic, political, affective, aesthetic, and imaginative—that speak to the comings and goings of Latin Americans to the U.S. and back again to their home countries… They all speak of what I call the Latinx return, an endless circuit of arrivals and departures."[^61] Lamas reminds us that the crossing of the divide does not only have to involve an actual person returning, but also in the circulation of the translated works Latin American authors have published within the United States and Latin America, and more. 
 
 <param ve-image
        src="wc:Mexico_topographic_map-blank.svg"
@@ -77,6 +77,9 @@ Potatoes and the fight to find a genetically resistant variant begs whether the 
 [^13]: Salaman, 28.
 [^14]: Reader, 8–9.
 [^15]: Inca Garcilaso de la Vega, The Incas: The Royal Commentaries of the Inca Garcilaso de la Vega 1539–1616, trans. Alain Gheerbrant (New York: The Orion Press, 1961), 164–66. 
-[^1]: Tiina Särkinen et al. "Out of the Wild: The Wild (and Often Weedy) Roots of Our Crops." New Phytologist, vol. 234 no. 4, 2022, pp. 1107-1108.
-[^2]: Crop Trust. 2013. "Potatoes, the Underground Heroes." Retrieved from: https://www.croptrust.org/news-events/news/potatoes-the-underground-heroes/ 
-[^3]: Carmen Lamas, The Latino Continuum and the Nineteenth-Century Americas: Literature, Translation, and Historiography (Oxford: Oxford University Press, 2021), 208.
+[^57]: Tiina Särkinen et al. "Out of the Wild: The Wild (and Often Weedy) Roots of Our Crops." New Phytologist, vol. 234 no. 4, 2022, pp. 1107-1108.
+[^58]: Crop Trust. 2013. "Potatoes, the Underground Heroes." Retrieved from: https://www.croptrust.org/news-events/news/potatoes-the-underground-heroes/ 
+[^59]: For further scientific research, see, for example: M. Gastelo et al., "New Potato Varieties Resistant to Late Blight and with High Quality for French Fries Generated in Peru," Potato Research 67 (2024): 1435–68; https://doi.org/10.1007/s11540-024-09697-1
+F. Figueroa-Grenett et al., "Assessment of Resistance to Late Blight (Phytophthora infestans (Mont.) de Bary) in Chilean Native Potatoes (Solanum tuberosum Chilotanum group)," Potato Research (2024), https://doi.org/10.1007/s11540-024-09779-0 ; G. Díaz-García et al., "Field Screening of Solanum demissum Confirms its Late Blight Resistance in the Toluca Valley, Mexico," American Journal of Potato Research 101 (2024): 122–31, https://doi.org/10.1007/s12230-024-09945-7 ; P. VanderZaag et al., "Cooperation 88, A Short-day Potato Cultivar Parented New Long-day Potato Cultivars with Stable Field Resistance to Late Blight (Phytophthora infestans)," American Journal of Potato Research 101 (2024): 95–98, https://doi.org/10.1007/s12230-024-09951-9 ; R. Asakaviciute et al., "Assessment of Potato Varieties of Lithuanian Breeding Resistance to Potato Wart Causative Agents and Late Blight," Scientific Reports 15 (2025): art. 5915, https://doi.org/10.1038/s41598-025-85526-w ; N. P. M. Phungula et al., "The Response of Potato Late Blight to the Integration of Selected Potato Cultivars, Fungicides and Mulch at Different Levels, and Localities," European Journal of Plant Pathology (2025), https://doi.org/10.1007/s10658-025-03028-x 
+[^60]: "Protecting Potatoes – Scotland’s Story," SEFARI, accessed May 24, 2025, sefari.scot/research/protecting-potatoes-scotlands-story.
+[^61]: Carmen Lamas, The Latino Continuum and the Nineteenth-Century Americas: Literature, Translation, and Historiography (Oxford: Oxford University Press, 2021), 208. 
