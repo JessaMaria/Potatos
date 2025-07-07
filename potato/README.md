@@ -36,7 +36,7 @@ We often ask plants questions such as: Where are you native? How many variants e
 
 <param ve-image
 	   src="gh:JessaMaria/Potatos/main/potato/newspaper.png"
-	   caption="Newspaper Clipping."> 
+	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History."> 
 
 The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^1] 
 
@@ -68,7 +68,7 @@ Potatoes and the fight to find a genetically resistant variant begs whether the 
 
 <param ve-image
 	   src="gh:JessaMaria/Potatos/main/potato/second.png"
-	   caption="Continued excerpt.">
+	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History.">
 <param ve-image
 	   src="gh:JessaMaria/Potatos/main/potato/excerpt.png"> 
 
