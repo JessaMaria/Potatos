@@ -25,10 +25,10 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 
 <param ve-image
 	   src:"gh:JessaMaria/Potatos/main/potato/Pre-Col.png"
-	   caption=" Caption: Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito. https://archive.org/details/primer-nueva-coronica-y-buen-gobierno-manuscrito/page/n1157/mode/1up."> 
+	   caption="Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito. Source: Archive.org"> 
 <param ve-image
 	   src:"gh:JessaMaria/Potatos/main/potato/Pre-Col2.png"
-	   caption="Caption: Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito.">
+	   caption="Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito. Source: Archive.org">
 
 ### A Plant Archive of Survival
 
