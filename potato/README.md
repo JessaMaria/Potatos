@@ -27,8 +27,7 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 	   src:"gh:JessaMaria/Potatos/main/potato/Pre-Col.png"
 	   caption="Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito. Source: Archive.org"> 
 <param ve-image
-	   src:"gh:JessaMaria/Potatos/main/potato/Pre-Col2.png"
-	   caption="Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito. Source: Archive.org">
+	   src:"gh:JessaMaria/Potatos/main/potato/Pre-Col2.png">
 
 ### A Plant Archive of Survival
 
@@ -38,7 +37,7 @@ We often ask plants questions such as: Where are you native? How many variants e
 	   src="gh:JessaMaria/Potatos/main/potato/newspaper.png"
 	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History."> 
 
-The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^57] 
+The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^57] The *how* or *when* behind the movement of a plant’s "wild ancestors" across the globe isn’t always easy to pinpoint. Still, the effects of its cross-cultivation transform a plant’s ability to survive. 
 
 <param ve-image
 	   src="wc:Mercado_Modelo_de_Huancayo_Peru-_Solanum_tuberosum_varieties_VI.jpg"
