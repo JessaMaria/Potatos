@@ -24,10 +24,10 @@ Potatoes, along with corn and quinoa, became crucial food crops that Indigenous 
 Incan calendars depicted potato planting and harvest. This can be seen in the manuscript First New Chronicle and Good Government (El Primer Nueva Corónica y Buen Gobierno) written by Felipe Guamán Poma de Ayala in 1615 and included in Inca Garcilaso de la Vega’s The Royal Commentaries of the Incas (Comentarios Reales de los Incas). Three months of the year were notable for potato planting and harvest: January, June, and December. De la Vega detailed that January was the month for "work in the potato fields; a man and woman are seen with hoes in their hands." In June, "potatoes are dug with spades." And in December, "the potatoes and quinoa are planted." The illustration for December "shows a peasant being helped by a woman to make a hole in the earth with a spade driven in by a mallet, while a second woman is preparing to place a potato in it."[^15]
 
 <param ve-image
-	   src:"gh:JessaMaria/Potatos/main/potato/Pre-Col.png"
+	   src="gh:JessaMaria/Potatos/main/potato/Pre-Col.png"
 	   caption="Photos from Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito. Source: Archive.org"> 
 <param ve-image
-	   src:"gh:JessaMaria/Potatos/main/potato/Pre-Col2.png">
+	   src="gh:JessaMaria/Potatos/main/potato/Pre-Col2.png">
 
 ### A Plant Archive of Survival
 
